@@ -145,21 +145,17 @@ Financial record management with JWT authentication, role-based permissions, fil
 
 ## 📊 GitHub Activity
 
-[View my contribution graph on GitHub](https://github.com/Mohitsagar236#js-contribution-activity-description)
+**[View my current contribution count and activity on GitHub](https://github.com/Mohitsagar236#js-contribution-activity-description)**
 
-The cards below show public GitHub activity and language statistics. Their counts can differ from GitHub’s native contribution graph because of coverage and caching.
+GitHub's native contribution graph below this README shows my current contribution count. It updates as I contribute.
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Mohitsagar236&theme=chartreuse-dark&hide_border=true" alt="Mohit Sagar's GitHub contribution streak" />
-</p>
+### Languages in Public Repositories
 
-<p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohitsagar236&theme=chartreuse_dark" alt="Mohit Sagar's GitHub activity overview" />
-</p>
+These charts summarize public repository languages and commit activity; they do not represent total contributions or skill proficiency.
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohitsagar236&theme=chartreuse_dark" alt="Languages across repositories" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohitsagar236&theme=chartreuse_dark" alt="Languages by commit activity" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohitsagar236&theme=chartreuse_dark" alt="Languages across public repositories" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohitsagar236&theme=chartreuse_dark" alt="Languages by public commit activity" />
 </p>
 
 ---
