@@ -1,19 +1,33 @@
 # Hi, I'm Mohit Sagar 👋
 
-🤖 AI & Retrieval Applications  
-🧠 Backend APIs & Data Systems  
-💻 Full-stack Web Development
+🎓 B.Tech. Engineering Science · IIT Hyderabad · Class of 2027  
+🤖 AI / ML & Computer Vision  
+💻 Backend & Full-stack Engineering
 
-I build applications that connect data, AI, and useful interfaces. My projects span **document-grounded assistants**, **authenticated backend APIs**, and **productivity tools**, using Python and TypeScript across the stack.
+I'm an Engineering Science undergraduate at **IIT Hyderabad**, building AI applications, computer vision systems, and full-stack products. My work spans **medical imaging**, **real-time detection and tracking**, **retrieval-augmented generation**, and **authenticated backend services**.
 
-- 🛠️ Project focus: retrieval-augmented generation, API development, and React applications
-- 📂 Projects: [github.com/Mohitsagar236](https://github.com/Mohitsagar236?tab=repositories)
+- 🎓 Indian Institute of Technology Hyderabad · 2023–2027
+- 🌐 Portfolio: [billionairemohit.space](https://billionairemohit.space/)
+- 💼 LinkedIn: [Mohit Sagar](https://www.linkedin.com/in/linkedinmohitsagar236/)
+- 🧩 Solved **800+ problems** across competitive programming and coding platforms
+
+## 💼 Experience
+
+| Role | Organization | Period | Focus |
+| --- | --- | --- | --- |
+| Research & SDE Intern | IIT Hyderabad · Dr. Digvijay S. Pawar | Jan–Apr 2026 | UAV vehicle detection and tracking with YOLOv8 and BoT-SORT; calibrated motion analysis and work-zone safety. |
+| AI / Full-Stack Engineering Intern | Biosimilar Sciences India LLP | Jun–Jul 2026 | Usage analytics APIs and dashboards, Microsoft Graph SSO enrichment, authentication, audit logging, and automated tests. |
+| Product & Growth Strategy Intern | Tayog | Sep 2024–Aug 2025 | User research, feature prioritization, product planning, and growth insights. |
 
 ## 🔧 Technical Skills & Stack
 
-### 🤖 AI & Retrieval
+### 🤖 AI / ML & Computer Vision
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat) ![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=flat) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat)
+
+### 🧠 LLMs & Retrieval
+
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat) ![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=flat)
 
 ### 🧠 Backend & APIs
 
@@ -21,28 +35,27 @@ I build applications that connect data, AI, and useful interfaces. My projects s
 
 ### 🌐 Frontend
 
-![React](https://img.shields.io/badge/React-149ECA?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Databases & Data
+### 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white) ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-4B7F22?style=flat&logo=drizzle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat) ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-7C3AED?style=flat)
 
-### ⚙️ Development & Testing
+### ⚙️ DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-555555?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-B59B00?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-B59B00?style=flat&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 
-## 🧩 Engineering Across My Projects
+## 🧩 Computer Science Foundations
 
-- Document ingestion, embedding, and vector retrieval
-- Transcript-grounded answers with timestamp sources
-- JWT authentication and role-based access control
-- Relational data modeling and database migrations
-- React interfaces connected to backend APIs
-- Automated unit and API testing
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Operating Systems & Computer Networks
+- Database Management Systems
+- System Design
 
 ## 🚀 Featured Projects
 
@@ -50,13 +63,13 @@ I build applications that connect data, AI, and useful interfaces. My projects s
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 TubeMind AI
+### 🩻 PrecisionPath AI
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
 
-Chat with the transcript of a YouTube video through a Chrome extension. Answers include clickable timestamp sources, with retrieval scoped to the active video.
+Medical imaging project for lung nodule detection in CT scans and brain tumor detection in MRI scans, with separate frontend, backend, and inference services, interactive visualization, and PDF reports.
 
-**[🔗 View Project](https://github.com/Mohitsagar236/TubeMindAI)**
+**[🔗 View Project](https://github.com/Mohitsagar236/PrecisionPath-AI)**
 
 </td>
 
@@ -75,6 +88,43 @@ A document-grounded assistant with a Flask web interface, terminal client, local
 <tr>
 <td width="50%" valign="top">
 
+### 👁️ VisionDesk
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square)
+
+Real-time object detection and tracking across cameras, images, videos, and streams. WebSocket inference delivers bounding boxes, tracking IDs, class counts, and performance metrics.
+
+**[🔗 View Project](https://github.com/Mohitsagar236/Real_time_object_detection)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📄 AI Resume Analyzer
+
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
+
+AI-powered resume analysis with ATS scoring, skill-gap feedback, keyword optimization, readability analysis, and career recommendations.
+
+**[🔗 View Project](https://github.com/Mohitsagar236/checkresumeai)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 TubeMind AI
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![React](https://img.shields.io/badge/React-149ECA?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=flat-square)
+
+Chat with the transcript of a YouTube video through a Chrome extension. Answers include clickable timestamp sources, with retrieval scoped to the active video.
+
+**[🔗 View Project](https://github.com/Mohitsagar236/TubeMindAI)**
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🔐 Finance API
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
@@ -84,20 +134,14 @@ Financial record management with JWT authentication, role-based permissions, fil
 **[🔗 View Project](https://github.com/Mohitsagar236/Finance-Data-Processing-and-Access-Control-Backend)**
 
 </td>
-
-<td width="50%" valign="top">
-
-### 🎯 TaskZen
-
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square)
-
-A full-stack productivity application combining task management, a Kanban board, a Pomodoro timer, and productivity analytics.
-
-**[🔗 View Project](https://github.com/Mohitsagar236/taskzen)**
-
-</td>
 </tr>
 </table>
+
+## 🏆 Highlights
+
+- **800+ coding problems solved** across competitive programming and coding platforms
+- **Foundation for Excellence Scholar · 2023** — selected through a competitive interview process based on academic merit
+- **FinShield Hackathon 2025 · IIT Hyderabad** — shortlisted for Phase 2 with a credit risk model using alternative financial data
 
 ## 📊 GitHub Stats
 
