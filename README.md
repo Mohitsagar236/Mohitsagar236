@@ -143,7 +143,11 @@ Financial record management with JWT authentication, role-based permissions, fil
 - **Foundation for Excellence Scholar · 2023** — selected through a competitive interview process based on academic merit
 - **FinShield Hackathon 2025 · IIT Hyderabad** — shortlisted for Phase 2 with a credit risk model using alternative financial data
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+[View my contribution graph on GitHub](https://github.com/Mohitsagar236#js-contribution-activity-description)
+
+The cards below show public GitHub activity and language statistics. Their counts can differ from GitHub’s native contribution graph because of coverage and caching.
 
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=Mohitsagar236&theme=chartreuse-dark&hide_border=true" alt="Mohit Sagar's GitHub contribution streak" />
