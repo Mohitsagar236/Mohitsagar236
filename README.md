@@ -143,6 +143,13 @@ Financial record management with JWT authentication, role-based permissions, fil
 - **Foundation for Excellence Scholar · 2023** — selected through a competitive interview process based on academic merit
 - **FinShield Hackathon 2025 · IIT Hyderabad** — shortlisted for Phase 2 with a credit risk model using alternative financial data
 
+- **Flipkart GRiD 8.0** — selected as a National Semi-Finalist in Flipkart's national-level technology competition
+- **MELCO Hackathon · IIT Hyderabad** — participated in an industry hackathon with Mitsubishi Electric mentors
+- **Coordinator, Office of Career Services · IIT Hyderabad** — interview and recruiter-candidate coordination
+- **Event Coordinator, Milan · IIT Hyderabad** — event logistics and stakeholder communication
+- **Coordinator, Japan Day & Nagoya Day · IIT Hyderabad** — coordinated logistics and student interactions with 10+ Japanese companies
+- **Japanese Language Learning** — reading and writing coursework at IIT Hyderabad, a 250+ day Duolingo streak, and regular Suzuki Innovation Centre “Japan Hour” participation
+
 ## 📊 GitHub Activity
 
 **[View my current contribution count and activity on GitHub](https://github.com/Mohitsagar236#js-contribution-activity-description)**
