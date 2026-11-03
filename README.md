@@ -174,10 +174,10 @@ GitHub's native contribution graph below this README shows my current contributi
 
 These charts summarize public repository languages and commit activity; they do not represent total contributions or skill proficiency.
 
-<p align="center">
+<!-- <p align="center">
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohitsagar236&theme=chartreuse_dark" alt="Languages across public repositories" />
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohitsagar236&theme=chartreuse_dark" alt="Languages by public commit activity" />
-</p>
+</p> -->
 
 ---
 
