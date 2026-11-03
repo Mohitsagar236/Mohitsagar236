@@ -135,6 +135,20 @@ Financial record management with JWT authentication, role-based permissions, fil
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📐 Engineering Drawing Intelligence
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-5C3EE8?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square)
+
+OCR and material reference matching for engineering drawings and PDFs, with EasyOCR/PaddleOCR comparison, clickable source annotations, confidence scores, human review, and PDF/CSV reports.
+
+**[🔗 View Project](https://github.com/Mohitsagar236/engineering-drawing-intelligence)**
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ## 🏆 Highlights
